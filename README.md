@@ -29,9 +29,15 @@
 ##### Diana DeGette who received 73.8% of the vote and 272,892 number of votes.
 ---
 ## Challenge Overview
+### The challenge was to take the election audit data to find the following additional data:
+##### 1. Voter turnout for each county
+##### 2. The percentage of votes from each county out of the total count
+##### 3. The cointy with the highest turnout
 ---
 ## Challenge Summary
+#### The analysis of the election shows that:
 ---
 ## Challenge Results
+##### The county with the highest voter turnout was
 ---
 
