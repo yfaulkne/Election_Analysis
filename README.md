@@ -34,10 +34,13 @@
 ##### 2. The percentage of votes from each county out of the total count
 ##### 3. The cointy with the highest turnout
 ---
+## Challenge Results
+#### Results of the election outcomes
+##### * There were 369,711 total votes cast in this congressional election
+##### * Votes by county break down as below:
+##### - Jefferson: 10.5% (38,855)
+##### - Denver: 82.8% (306,055)
+##### - Arapahoe: 6.7% (24,801)
+---
 ## Challenge Summary
 #### The analysis of the election shows that:
----
-## Challenge Results
-##### The county with the highest voter turnout was
----
-
