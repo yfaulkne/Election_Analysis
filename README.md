@@ -10,14 +10,14 @@
 ##### 5. Determine the winner of the election based on popular vote.
 ## Challenge Overview
 ### The challenge was to take the election audit data to find the following additional data:
-##### 1. Voter turnout for each county
+##### 1. Voter turnout for each county (using for loops).
 ##### 2. The percentage of votes from each county out of the total count
-##### 3. The county with the highest turnout
+##### 3. The county with the highest turnout (using a decision statement).
 ---
 ## Resources
 ---
-### Data Source: election_results.csv
-### Software: Python 3.7.6, Visual Studio Code,  
+#### Data Source: election_results.csv
+#### Software: Python 3.7.6, Visual Studio Code  
 ---
 ## Results
 #### The analysis of the election shows that:
@@ -47,5 +47,5 @@
 ---
 ## Challenge Summary
 #### This script can be used to generate the outcome of almost any local election by candidate as well as county. With some modifications and more data, this script can further analyze and produce results for more counties if needed.
-#### This script can also be modified, with more code, to breakdown a candidate's votes by county. That way the candidates can view how they were voted in each county represented. 
+#### This script can also be modified (by adding another dictionary and with repetition statement code) to breakdown a candidate's votes by county. That way the candidates can view how they were voted in each county represented. 
 
